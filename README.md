@@ -1,8 +1,8 @@
 # python-console-snake
 
-> Lightweight, configurable snake game running in the console
+> Lekka, konfigurowalna gra w węża działająca w konsoli
 
-![Screenshot](http://s2.postimg.org/tzpt8rs09/snake.png)
+![Zrzut ekranu](http://s2.postimg.org/tzpt8rs09/snake.png)
 
 ### Usage
 
