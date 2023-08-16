@@ -4,7 +4,7 @@
 
 ![Zrzut ekranu](http://s2.postimg.org/tzpt8rs09/snake.png)
 
-### Usage
+### Użycie
 
 1. `git clone git@github.com:tancredi/python-console-snake.git`
 2. `cd python-console-snake`
